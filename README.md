@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andy-Z0z
 - 👀 I’m interested in programming in C#, Lua
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Microsoft
-- ⚡ Fun fact: i am 11 years old
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Samsung
+- ⚡ Fun fact: i love pizza
